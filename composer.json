@@ -1,5 +1,5 @@
 {
-    "name": "openfoodfacts/openfoodfacts-laravel",
+    "name": "arekbn/openfoodfacts-laravel",
     "description": "Open Food Facts API wrapper for Laravel",
     "keywords": [
         "openfoodfacts",
