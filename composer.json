@@ -16,14 +16,14 @@
         }
     ],
     "require": {
-        "php": "^8.0.2",
+        "php": "^8.1",
         "guzzlehttp/guzzle": "^7.2",
-        "illuminate/support": "^9.0",
-        "openfoodfacts/openfoodfacts-php": "^0.2.4"
+        "illuminate/support": "^9.0|^10.0",
+        "openfoodfacts/openfoodfacts-php": "dev-0.3.x-dev"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.6",
-        "orchestra/testbench": "^7.0",
+        "orchestra/testbench": "^7.0|^8.0",
         "phpunit/phpunit": "^9.5.8"
     },
     "autoload": {
